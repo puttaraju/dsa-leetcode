@@ -25,3 +25,28 @@ https://github.com/allen-tran/python-dsa/tree/master
 # Practice-Coding-Questions
 [  https://github.com/kyle8998/Practice-Coding-Questions ]
 
+# Python_Challenges
+[ https://github.com/PrasadRaoJammuna/Python_Challenges ]
+
+
+# Cracking-the-Coding-Interview
+[ https://github.com/abhireddy96/Cracking-the-Coding-Interview/tree/master ]
+
+# Python DSA Pre
+[ https://github.com/ateniolatobi/SOFTWARE_ENGINEERING_TECHNICAL_INTERVIEW_PREP ]
+
+# leetcode-common-questions
+[ https://github.com/manokhina/leetcode-common-questions ]
+
+
+# cracking-the-coding-interview-in-python
+[ https://github.com/nirjharij/cracking-the-coding-interview-in-python ]
+
+# Data Structures and Algorithms in Python
+[ https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python ]
+
+# Coding-Questions
+[ https://github.com/Mayank0255/Coding-Questions ]
+
+# Python Intw Questions
+[ https://github.com/jttyeung/interview-questions-python ]
