@@ -50,3 +50,18 @@ https://github.com/allen-tran/python-dsa/tree/master
 
 # Python Intw Questions
 [ https://github.com/jttyeung/interview-questions-python ]
+
+
+# Python LeetCD
+[ https://github.com/huangsam/leetcode/tree/main/python ]
+
+# InterviewBit - 1
+[ https://github.com/thong3le/InterviewBit ]
+
+# LeetCode_InterviewQuestions
+[https://github.com/ConyYang/LeetCode_InterviewQuestions_Python]
+
+# 50-Python-Interview-Questions-and-Answers
+[ https://github.com/love554468/50-Python-Interview-Questions-and-Answers ] 
+
+
