@@ -64,4 +64,15 @@ https://github.com/allen-tran/python-dsa/tree/master
 # 50-Python-Interview-Questions-and-Answers
 [ https://github.com/love554468/50-Python-Interview-Questions-and-Answers ] 
 
+# coding problems 
+[ https://github.com/andyyu/coding-problems ]
+
+# Interview_Practice
+[ https://github.com/susmitpy/Interview_Practice ]
+
+# InterviewBit-Question-Pratice
+[ https://github.com/PrinceSinghhub/InterviewBit-Question-Pratice ]
+
+# Python_Projects
+[ https://github.com/vrindabhatia999/Python_Projects ]
 
