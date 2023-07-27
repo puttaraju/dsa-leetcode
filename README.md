@@ -76,3 +76,17 @@ https://github.com/allen-tran/python-dsa/tree/master
 # Python_Projects
 [ https://github.com/vrindabhatia999/Python_Projects ]
 
+# Python_Tricky_Programs
+[ https://github.com/Hariprasad07/Python_Tricky_Programs ]
+
+# DSA - 1 
+[ https://github.com/RaviPabari/DataStructures-Algorithm ]
+
+# Udacity-DataStructures-And-Algorithms-In-Python
+[ https://github.com/VineetPrasadVerma/Udacity-DataStructures-And-Algorithms-In-Python ]
+
+# Lets-do-DataStructure-and-Algorithm
+[ https://github.com/ikushum/Lets-do-DataStructure-and-Algorithm ]
+
+# Data Structures And Algorithm Using Python3
+[ https://github.com/RaviPabari/DataStructures-Algorithm ]
