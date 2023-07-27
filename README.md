@@ -90,3 +90,10 @@ https://github.com/allen-tran/python-dsa/tree/master
 
 # Data Structures And Algorithm Using Python3
 [ https://github.com/RaviPabari/DataStructures-Algorithm ]
+
+
+# 20 Python Decorators Interview Questions and Answers
+[ https://climbtheladder.com/python-decorators-interview-questions/ ]
+
+
+
